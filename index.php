@@ -1,4 +1,4 @@
 <?php
 
-echo "Semana Partiu Nuvem - TFTEC!";
+echo "Desafio GFT!";
 
